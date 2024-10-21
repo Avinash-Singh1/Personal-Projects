@@ -82,10 +82,14 @@ Welcome to my portfolio of projects! Below is a list of projects that I've worke
 
 ## 🛠️ Technologies Used
 Some of the technologies and frameworks used across these projects include:
-- **Frontend**: HTML, CSS, JavaScript, Angular, React.js
-- **Backend**: Node.js, Express
-- **Database**: MySQL, MongoDB
-- **Others**: Git, Docker, AWS, Firebase
+- **Programming Languages**: JavaScript/TypeScript, Python, C++, Java, PHP, SQL.
+- **Web Development Frameworks/Technologies**: Angular, React.js, jQuery, Node.js, RxJS, REST API, Microservices.
+- **Database Technologies**: MongoDB, MySQL.
+- **Cloud Platforms**: Amazon Web Services (AWS), Azure.
+- **DevOps Practices**: CI/CD pipelines, GitHub.
+- **Operating Systems**: Linux.
+- **Data Analysis**: Data Visualization, Machine Learning.
+- **Project Management**: Agile, Scrum, Kanban.
 
 ---
 
