@@ -5,14 +5,14 @@ Welcome to my portfolio of projects! Below is a list of projects that I've worke
 ---
 
 ## 🚀 Projects
-
 ### 1. **Finance Application**
    - **Description**: A comprehensive finance application built using Angular, Node.js, and MySQL. Key features include:
      - Implemented interactive maps allowing users to click on countries for detailed COVID-19 statistics in a pop-up format.
      - Utilized MySQL stored procedures for dynamic data handling and runtime menu management, allowing quick adjustments to meet changing business needs.
      - Developed a scalable architecture to accommodate future expansions and additional services.
-   - **GitHub Repository**: [Finance Application GitHub Repo](https://github.com/yourusername/finance-application)
-   - **Live Demo**: [Live Demo of Finance Application]((https://finance-application-k5x4.onrender.com/home))
+   - **GitHub Repository**: [Finance Application GitHub Repo](https://github.com/Avinash-Singh1/Finanace-Management-Lending-Application)
+   - **Live Demo**: [Live Demo of Finance Application](https://finance-application-k5x4.onrender.com/home)
+
 
 ---
 
