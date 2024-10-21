@@ -68,6 +68,18 @@ Welcome to my portfolio of projects! Below is a list of projects that I've worke
 
 ---
 
+### 8. **Chemical Management System**
+   - **Description**: The Chemical Management System is an online tool designed to manage chemical data efficiently through an interactive table interface. 
+   - **Key Features**:
+     - **User Interaction**: Users can add, delete, and rearrange chemical entries, as well as edit data inline by double-clicking on a row. 
+     - **Search and Export**: A search box allows for quick filtering of chemicals, and users can export data to CSV for easy sharing.
+     - **Responsive Design**: Built with HTML, CSS, JavaScript, and Bootstrap, the application is fully responsive and works offline as a Progressive Web App (PWA), utilizing local storage for data persistence.
+   - **GitHub Repository**: [Chemical Management System GitHub Repo](https://github.com/Avinash-Singh1/Chemical_Management_System)
+   - **Live Demo**: [Live Demo of Chemical Management System](https://chemicals-supplies.netlify.app/)
+
+---
+
+
 ## 🛠️ Technologies Used
 Some of the technologies and frameworks used across these projects include:
 - **Frontend**: HTML, CSS, JavaScript, Angular, React.js
