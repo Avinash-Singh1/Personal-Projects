@@ -12,7 +12,7 @@ Welcome to my portfolio of projects! Below is a list of projects that I've worke
      - Utilized MySQL stored procedures for dynamic data handling and runtime menu management, allowing quick adjustments to meet changing business needs.
      - Developed a scalable architecture to accommodate future expansions and additional services.
    - **GitHub Repository**: [Finance Application GitHub Repo](https://github.com/yourusername/finance-application)
-   - **Live Demo**: [Live Demo of Finance Application]([https://finance-app-live-url.com](https://finance-application-k5x4.onrender.com/home))
+   - **Live Demo**: [Live Demo of Finance Application]((https://finance-application-k5x4.onrender.com/home))
 
 ---
 
