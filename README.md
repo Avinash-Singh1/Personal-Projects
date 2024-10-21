@@ -93,7 +93,7 @@ Some of the technologies and frameworks used across these projects include:
 If you have any questions or want to collaborate, feel free to reach out!
 
 - **Email**: aavinash.singgh@gmail.com
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/avinashsinghh)
+- **LinkedIn**: [ LinkedIn Profile](https://www.linkedin.com/in/avinashsinghh)
 
 
 Thanks for visiting my projects! 😊
