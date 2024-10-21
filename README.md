@@ -20,7 +20,7 @@ Welcome to my portfolio of projects! Below is a list of projects that I've worke
    - **Description**: An application that tracks and displays over 220 million global COVID-19 cases, recoveries, and deaths with real-time data updates. Built with React.js, Leaflet, Disease.sh API, and Chart.js. Key features include:
      - Developed interactive maps and live data visualizations, helping users get up-to-date insights on COVID-19 trends.
      - Designed a live case update feature arranged in descending order by severity, providing actionable insights into pandemic trends through visual representations.
-   - **GitHub Repository**: [COVID Tracker GitHub Repo](https://github.com/yourusername/covid-tracker)
+   - **GitHub Repository**: [COVID Tracker GitHub Repo](https://github.com/Avinash-Singh1/CovidTracker)
    - **Live Demo**: [Live Demo of COVID Tracker](https://covidtracker-go.netlify.app)
 
 ---
@@ -29,7 +29,7 @@ Welcome to my portfolio of projects! Below is a list of projects that I've worke
    - **Description**: A secure user management system designed using Node.js, EJS, and MongoDB. Key features include:
      - Designed secure login/logout features with JWT authentication, increasing security by 40%.
      - Developed a scalable system to handle hundreds of concurrent users while maintaining efficiency.
-   - **GitHub Repository**: [User Management System GitHub Repo](https://github.com/yourusername/user-management-system)
+   - **GitHub Repository**: [User Management System GitHub Repo](https://github.com/Avinash-Singh1/UserManagement)
    - **Live Demo**: [Live Demo of User Management System](https://usermenu.onrender.com/)
 
 ---
@@ -45,7 +45,7 @@ Welcome to my portfolio of projects! Below is a list of projects that I've worke
    - **Description**: A responsive web application that allows users to play and manage their favorite music tracks. Built with React.js and the Web Audio API. Key features include:
      - Intuitive user interface for searching and managing playlists.
      - Supports various audio formats for playback.
-   - **GitHub Repository**: [Music Player GitHub Repo](https://github.com/yourusername/music-player)
+   - **GitHub Repository**: [Music Player GitHub Repo](https://github.com/Avinash-Singh1/MusicApplication)
    - **Live Demo**: [Live Demo of Music Player](https://musik-webapp.netlify.app/)
 
 ---
@@ -54,7 +54,7 @@ Welcome to my portfolio of projects! Below is a list of projects that I've worke
    - **Description**: A simple and effective to-do list application that helps users manage their tasks efficiently. Built with HTML, CSS, and JavaScript. Key features include:
      - User-friendly interface to add, edit, and delete tasks.
      - Local storage support to keep tasks persistent across sessions.
-   - **GitHub Repository**: [To-Do Application GitHub Repo](https://github.com/yourusername/todo-application)
+   - **GitHub Repository**: [To-Do Application GitHub Repo](https://github.com/Avinash-Singh1/Todo)
    - **Live Demo**: [Live Demo of To-Do Application](https://todo-get-the-things-done.netlify.app/)
 
 ---
@@ -63,7 +63,7 @@ Welcome to my portfolio of projects! Below is a list of projects that I've worke
    - **Description**: A front-end e-commerce user interface designed for seamless shopping experiences. Built with React.js and styled-components. Key features include:
      - Responsive design that works on both desktop and mobile devices.
      - Dynamic product listing and filtering options for enhanced user experience.
-   - **GitHub Repository**: [Ecommerce UI GitHub Repo](https://github.com/yourusername/ecommerce-ui)
+   - **GitHub Repository**: [Ecommerce UI GitHub Repo](https://github.com/Avinash-Singh1/Ecommerce)
    - **Live Demo**: [Live Demo of Ecommerce UI](https://demoapp-ui.netlify.app/)
 
 ---
@@ -76,6 +76,18 @@ Welcome to my portfolio of projects! Below is a list of projects that I've worke
      - **Responsive Design**: Built with HTML, CSS, JavaScript, and Bootstrap, the application is fully responsive and works offline as a Progressive Web App (PWA), utilizing local storage for data persistence.
    - **GitHub Repository**: [Chemical Management System GitHub Repo](https://github.com/Avinash-Singh1/Chemical_Management_System)
    - **Live Demo**: [Live Demo of Chemical Management System](https://chemicals-supplies.netlify.app/)
+
+---
+
+### 8. **Task Track (Drag and Drop)**
+   - **Description**: Track My Task is a React-based task management application designed to streamline your workflow. Users can effortlessly add and manage tasks across three distinct phases: To Do, Doing, and Done, using a simple drag-and-drop interface. 
+   - **Key Features**:
+      - User Interaction: Users can create new tasks through an input field and seamlessly drag tasks between the To Do, Doing, and Done phases, allowing for easy organization and status updates.
+      - Real-Time Updates: Changes reflect instantly in the user interface, providing an intuitive and responsive experience.
+      - Responsive Design: Built with React, Vite, and TypeScript, the application is fully responsive and optimizes performance with hot module reloading for a smooth development experience.
+      - Code Quality: ESLint is integrated to maintain code quality and ensure adherence to best practices throughout the development process.
+   - **GitHub Repository**: [Chemical Management System GitHub Repo]([https://github.com/Avinash-Singh1/Chemical_Management_System](https://github.com/Avinash-Singh1/Task-Track))
+   - **Live Demo**: [Live Demo of Chemical Management System](https://track-my-task.netlify.app/)
 
 ---
 
