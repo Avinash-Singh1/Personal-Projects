@@ -36,8 +36,8 @@ Welcome to my portfolio of projects! Below is a list of projects that I've worke
 
 ### 4. **QuickAuto Cab and Others**
    - **Description**: An application built with Angular, Gomaps Pro API, Node.js, and MySQL, focusing on efficient cab management and user interaction.
-   - **GitHub Repository**: [QuickAuto Cab GitHub Repo](https://github.com/yourusername/quickauto-cab)
-   - **Live Demo**: [Live Demo of QuickAuto Cab](https://quickauto.onrender.com/login)
+   - **GitHub Repository**: [QuickAuto Cab GitHub Repo](https://github.com/Avinash-Singh1/Quick_Auto_Application)
+   - **Live Demo**: [Live Demo of QuickAuto Cab](https://quickauto.onrender.com/login) If Unable to log in on signup (Means RDS is Down..) 
 
 ---
 
