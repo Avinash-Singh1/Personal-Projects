@@ -5,7 +5,21 @@ Welcome to my portfolio of projects! Below is a list of projects that I've worke
 ---
 
 ## 🚀 Projects
-### 1. **Finance Application**
+
+### 1. **Google Translate**
+   - **Description**: The Google Translate Application is a powerful web tool that combines text translation and speech recognition, enabling users to translate text from various languages seamlessly. Built using **React**, **Next.js**, and **TypeScript**, this application integrates with the **Azure/OpenAI API** for translation services, utilizes **Clerk for authentication**, and stores translation history in **MongoDB** integrated with **Azure CosmosDB**. 
+   - **Key Features**:
+     - **User Authentication**: Users must authenticate via their Gmail accounts before accessing the translation page.
+     - **Automatic Language Detection**: The application automatically identifies the input language and prepares for translation.
+     - **Debounced Input**: Utilizes a debounce feature that waits for 5 seconds of inactivity before sending a translation request, optimizing API usage.
+     - **Translation History**: Users can view their translation history below the input text area, providing easy access to previously translated texts.
+     - **Speech Recognition**: The application includes speech recognition functionality, allowing users to input text by speaking.
+   - **Technologies Used**: React, Next.js, TypeScript, Tailwind CSS, Node.js, Azure/OpenAI API, Clerk, MongoDB, Azure CosmosDB.
+   - **GitHub Repository**: [Google Translate GitHub Repo](https://github.com/Avinash-Singh1/Translator-Text-and-Voice)
+   - **Live Demo**: [Live Demo of Google Translate Application](https://translator-text-and-voice.onrender.com/translate)
+
+
+### 2. **Finance Application**
    - **Description**: A comprehensive finance application built using Angular, Node.js, and MySQL. Key features include:
      - Implemented interactive maps allowing users to click on countries for detailed COVID-19 statistics in a pop-up format.
      - Utilized MySQL stored procedures for dynamic data handling and runtime menu management, allowing quick adjustments to meet changing business needs.
@@ -16,7 +30,7 @@ Welcome to my portfolio of projects! Below is a list of projects that I've worke
 
 ---
 
-### 2. **COVID Tracker Web Application**
+### 3. **COVID Tracker Web Application**
    - **Description**: An application that tracks and displays over 220 million global COVID-19 cases, recoveries, and deaths with real-time data updates. Built with React.js, Leaflet, Disease.sh API, and Chart.js. Key features include:
      - Developed interactive maps and live data visualizations, helping users get up-to-date insights on COVID-19 trends.
      - Designed a live case update feature arranged in descending order by severity, providing actionable insights into pandemic trends through visual representations.
@@ -25,7 +39,7 @@ Welcome to my portfolio of projects! Below is a list of projects that I've worke
 
 ---
 
-### 3. **User Management System**
+### 4. **User Management System**
    - **Description**: A secure user management system designed using Node.js, EJS, and MongoDB. Key features include:
      - Designed secure login/logout features with JWT authentication, increasing security by 40%.
      - Developed a scalable system to handle hundreds of concurrent users while maintaining efficiency.
@@ -34,14 +48,14 @@ Welcome to my portfolio of projects! Below is a list of projects that I've worke
 
 ---
 
-### 4. **QuickAuto Cab and Others**
+### 5. **QuickAuto Cab and Others**
    - **Description**: An application built with Angular, Gomaps Pro API, Node.js, and MySQL, focusing on efficient cab management and user interaction.
    - **GitHub Repository**: [QuickAuto Cab GitHub Repo](https://github.com/Avinash-Singh1/Quick_Auto_Application)
    - **Live Demo**: [Live Demo of QuickAuto Cab](https://quickauto.onrender.com/login) If Unable to log in on signup (Means RDS is Down..) 
 
 ---
 
-### 5. **Music Player**
+### 6. **Music Player**
    - **Description**: A responsive web application that allows users to play and manage their favorite music tracks. Built with React.js and the Web Audio API. Key features include:
      - Intuitive user interface for searching and managing playlists.
      - Supports various audio formats for playback.
@@ -50,7 +64,7 @@ Welcome to my portfolio of projects! Below is a list of projects that I've worke
 
 ---
 
-### 6. **To-Do Application**
+### 7. **To-Do Application**
    - **Description**: A simple and effective to-do list application that helps users manage their tasks efficiently. Built with HTML, CSS, and JavaScript. Key features include:
      - User-friendly interface to add, edit, and delete tasks.
      - Local storage support to keep tasks persistent across sessions.
@@ -59,7 +73,7 @@ Welcome to my portfolio of projects! Below is a list of projects that I've worke
 
 ---
 
-### 7. **Ecommerce UI**
+### 8. **Ecommerce UI**
    - **Description**: A front-end e-commerce user interface designed for seamless shopping experiences. Built with React.js and styled-components. Key features include:
      - Responsive design that works on both desktop and mobile devices.
      - Dynamic product listing and filtering options for enhanced user experience.
@@ -68,7 +82,7 @@ Welcome to my portfolio of projects! Below is a list of projects that I've worke
 
 ---
 
-### 8. **Chemical Management System**
+### 9. **Chemical Management System**
    - **Description**: The Chemical Management System is an online tool designed to manage chemical data efficiently through an interactive table interface. 
    - **Key Features**:
      - **User Interaction**: Users can add, delete, and rearrange chemical entries, as well as edit data inline by double-clicking on a row. 
@@ -79,7 +93,7 @@ Welcome to my portfolio of projects! Below is a list of projects that I've worke
 
 ---
 
-### 8. **Task Track (Drag and Drop)**
+### 10. **Task Track (Drag and Drop)**
    - **Description**: Track My Task is a React-based task management application designed to streamline your workflow. Users can effortlessly add and manage tasks across three distinct phases: To Do, Doing, and Done, using a simple drag-and-drop interface. 
    - **Key Features**:
       - User Interaction: Users can create new tasks through an input field and seamlessly drag tasks between the To Do, Doing, and Done phases, allowing for easy organization and status updates.
