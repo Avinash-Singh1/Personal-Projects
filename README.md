@@ -111,8 +111,8 @@ Welcome to my portfolio of projects! Below is a list of projects that I've worke
       - Real-Time Updates: Changes reflect instantly in the user interface, providing an intuitive and responsive experience.
       - Responsive Design: Built with React, Vite, and TypeScript, the application is fully responsive and optimizes performance with hot module reloading for a smooth development experience.
       - Code Quality: ESLint is integrated to maintain code quality and ensure adherence to best practices throughout the development process.
-   - **GitHub Repository**: [Chemical Management System GitHub Repo]([https://github.com/Avinash-Singh1/Chemical_Management_System](https://github.com/Avinash-Singh1/Task-Track))
-   - **Live Demo**: [Live Demo of Chemical Management System](https://track-my-task.netlify.app/)
+   - **GitHub Repository**: [Task Track (Drag and Drop) GitHub Repo]([https://github.com/Avinash-Singh1/Chemical_Management_System](https://github.com/Avinash-Singh1/Task-Track))
+   - **Live Demo**: [Live Demo of Task Track (Drag and Drop)](https://track-my-task.netlify.app/)
 
 ---
 
