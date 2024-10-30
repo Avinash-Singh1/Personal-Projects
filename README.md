@@ -20,7 +20,23 @@ Welcome to my portfolio of projects! Below is a list of projects that I've worke
 
 
 
-### 2. **Finance Application**
+### 2. **QuickAuto Cab and Others**
+   - **Description**: An application built with Angular, Gomaps Pro API, Node.js, and MySQL, focusing on efficient cab management and user interaction. 
+   - **User Roles**:
+      - **Admin**: Full control over users, bookings, and availability, with comprehensive dashboard access.
+      - **Customer**: Journey planning with source and destination selection using an interactive map, fare and distance calculation, and driver booking based on real-time availability.
+      - **Driver**: Ability to manage availability and view scheduled journeys.
+   - **Features**:
+      - Interactive map integration with Google Maps for seamless journey planning.
+      - Dynamic fare and distance calculation based on chosen routes.
+      - Real-time driver availability management and booking updates.
+      - Payment processing using **Razorpay** for secure transactions.
+      - Confirmation messages via **Twilio** for WhatsApp to notify customers of their booking status and appointment details.
+   - **GitHub Repository**: [QuickAuto Cab GitHub Repo](https://github.com/Avinash-Singh1/Quick_Auto_Application)
+   - **Live Demo**: [Live Demo of QuickAuto Cab](https://quickauto.onrender.com/login) If Unable to log in on signup (Means RDS is Down..)
+
+
+### 3. **Finance Application**
    - **Description**: A comprehensive finance application built using Angular, Node.js, and MySQL. Key features include:
      - Implemented interactive maps allowing users to click on countries for detailed COVID-19 statistics in a pop-up format.
      - Utilized MySQL stored procedures for dynamic data handling and runtime menu management, allowing quick adjustments to meet changing business needs.
@@ -31,7 +47,7 @@ Welcome to my portfolio of projects! Below is a list of projects that I've worke
 
 ---
 
-### 3. **COVID Tracker Web Application**
+### 4. **COVID Tracker Web Application**
    - **Description**: An application that tracks and displays over 220 million global COVID-19 cases, recoveries, and deaths with real-time data updates. Built with React.js, Leaflet, Disease.sh API, and Chart.js. Key features include:
      - Developed interactive maps and live data visualizations, helping users get up-to-date insights on COVID-19 trends.
      - Designed a live case update feature arranged in descending order by severity, providing actionable insights into pandemic trends through visual representations.
@@ -40,7 +56,7 @@ Welcome to my portfolio of projects! Below is a list of projects that I've worke
 
 ---
 
-### 4. **User Management System**
+### 5. **User Management System**
    - **Description**: A secure user management system designed using Node.js, EJS, and MongoDB. Key features include:
      - Designed secure login/logout features with JWT authentication, increasing security by 40%.
      - Developed a scalable system to handle hundreds of concurrent users while maintaining efficiency.
@@ -49,12 +65,6 @@ Welcome to my portfolio of projects! Below is a list of projects that I've worke
 
 ---
 
-### 5. **QuickAuto Cab and Others**
-   - **Description**: An application built with Angular, Gomaps Pro API, Node.js, and MySQL, focusing on efficient cab management and user interaction.
-   - **GitHub Repository**: [QuickAuto Cab GitHub Repo](https://github.com/Avinash-Singh1/Quick_Auto_Application)
-   - **Live Demo**: [Live Demo of QuickAuto Cab](https://quickauto.onrender.com/login) If Unable to log in on signup (Means RDS is Down..) 
-
----
 
 ### 6. **Music Player**
    - **Description**: A responsive web application that allows users to play and manage their favorite music tracks. Built with React.js and the Web Audio API. Key features include:
