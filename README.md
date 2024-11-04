@@ -6,7 +6,20 @@ Welcome to my portfolio of projects! Below is a list of projects that I've worke
 
 ## 🚀 Projects
 
-### 1. **Google Translate**
+### 1. **Disney+ Hotstar Clone**
+   - **Description**: The Disney+ Hotstar Clone is an interactive streaming platform clone that allows users to search for movies, apply filters, and enjoy an intuitive, responsive UI. Built with **Next.js** and styled using **Tailwind CSS** and **shadcn**, this project features advanced functionalities like **server components**, **caching**, and a **dark mode toggle**. It integrates the **TMDB API** for movie data, **Azure functions** for backend processes, and leverages **OpenAI API** through **Microsoft Azure** for enhanced functionality.
+   - **Key Features**:
+     - **Movie Search and Filtering**: Users can search and filter movies based on various criteria, providing a tailored browsing experience.
+     - **Dark Mode Toggle**: Utilizes `shadcn` for seamless toggling between light and dark modes.
+     - **Caching**: Implements caching to optimize movie data fetching and reduce API call frequency, improving load times.
+     - **Robust TypeScript Implementation**: Ensures type safety and code reliability across the entire application.
+     - **Server Components**: Enhances SEO and performance with Next.js server-side components.
+   - **Technologies Used**: Next.js, Tailwind CSS, shadcn, TypeScript, Azure Functions, OpenAI Plugin, Microsoft Azure, TMDB API, Caching.
+   - **GitHub Repository**: [Disney+ Hotstar Clone GitHub Repo](https://github.com/Avinash-Singh1/Disney-Hotstar_Movie-Recomendation)
+   - **Live Demo**: [Live Demo of Disney+ Hotstar Clone](https://disneyhotstar-u6t0.onrender.com/) *(Initialy loading will take time)*
+
+---
+### 2. **Google Translate**
    - **Description**: The Google Translate Application is a powerful web tool that combines text translation and speech recognition, enabling users to translate text from various languages seamlessly. Built using **React**, **Next.js**, and **TypeScript**, this application integrates with the **Azure/OpenAI API** for translation services, utilizes **Clerk for authentication**, and stores translation history in **MongoDB** integrated with **Azure CosmosDB**. 
    - **Key Features**:
      - **User Authentication**: Users must authenticate via their Gmail accounts before accessing the translation page.
