@@ -16,7 +16,7 @@ Welcome to my portfolio of projects! Below is a list of projects that I've worke
      - **Server Components**: Enhances SEO and performance with Next.js server-side components.
    - **Technologies Used**: Next.js, Tailwind CSS, shadcn, TypeScript, Azure Functions, OpenAI Plugin, Microsoft Azure, TMDB API, Caching.
    - **GitHub Repository**: [Disney+ Hotstar Clone GitHub Repo](https://github.com/Avinash-Singh1/Disney-Hotstar_Movie-Recomendation)
-   - **Live Demo**: [Live Demo of Disney+ Hotstar Clone](https://disneyhotstar-u6t0.onrender.com/) *(Initialy loading will take time)*
+   - **Live Demo**: [Live Demo of Disney+ Hotstar Clone](https://disneyhotstar-u6t0.onrender.com/) *(Initial loading may take time, especially on search and genre changes)*
 
 ---
 ### 2. **Google Translate**
