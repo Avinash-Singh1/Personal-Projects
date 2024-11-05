@@ -3,6 +3,7 @@
 Welcome to my portfolio of projects! Below is a list of projects that I've worked on, each with a brief description, links to the GitHub repository, and a live demo. Feel free to explore the code or see them in action!
 
 ---
+<h3 align="center">I'm looking for a single opportunity to make an impact and showcase my skills.</h3>
 
 ## 🚀 Projects
 
