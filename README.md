@@ -136,7 +136,7 @@ Some of the technologies and frameworks used across these projects include:
 - **Programming Languages**: JavaScript/TypeScript, Python, C++, Java, PHP, SQL.
 - **Web Development Frameworks/Technologies**: Angular, React.js, jQuery, Node.js, RxJS, REST API, Microservices.
 - **Database Technologies**: MongoDB, MySQL.
-- **Cloud Platforms**: Amazon Web Services (AWS), Azure.
+- **Cloud Platforms**: Amazon Web Services (AWS), Azure and Google Api's.
 - **DevOps Practices**: CI/CD pipelines, GitHub.
 - **Operating Systems**: Linux.
 - **Data Analysis**: Data Visualization, Machine Learning.
