@@ -30,7 +30,7 @@ Welcome to my portfolio of projects! Below is a list of projects that I've worke
      - **Speech Recognition**: The application includes speech recognition functionality, allowing users to input text by speaking.
    - **Technologies Used**: React, Next.js, TypeScript, Tailwind CSS, Node.js, Azure/OpenAI API, Clerk, MongoDB, Azure CosmosDB.
    - **GitHub Repository**: [Google Translate GitHub Repo](https://github.com/Avinash-Singh1/Translator-Text-and-Voice)
-      - **Live Demo**: [Live Demo of Translator Application](https://translator-text-and-voice.onrender.com/translate) *(For the best experience, please open in incognito mode. If the URL is not working, the application server may be down due to being on a free-tier account.)*
+      - **Live Demo**: [Live Demo of Translator Application](https://translator-text-and-voice.onrender.com/) *(For the best experience, please open in incognito mode. If the URL is not working, the application server may be down due to being on a free-tier account.)*
 
 
 
