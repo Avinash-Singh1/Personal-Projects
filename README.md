@@ -58,7 +58,6 @@ Welcome to my portfolio of projects! Below is a list of projects that I've worke
    - **GitHub Repository**: [Finance Application GitHub Repo](https://github.com/Avinash-Singh1/Finanace-Management-Lending-Application)
    - **Live Demo**: [Live Demo of Finance Application](https://finance-application-k5x4.onrender.com/home)
 
-![Finexo](https://github.com/user-attachments/assets/027f8478-ea2c-467d-86b1-66e9bf6db096)
 
 ---
 
