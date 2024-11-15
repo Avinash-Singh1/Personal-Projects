@@ -34,7 +34,7 @@ Welcome to my portfolio of projects! Below is a list of projects that I've worke
 
 
 
-### 2. **QuickAuto Cab and Others**
+### 2. **QuickAuto Cab and Others (Plan journey is working, but other features have been discontinued due to cost issues).**
    - **Description**: An application built with Angular, Gomaps Pro API, Node.js, and MySQL, focusing on efficient cab management and user interaction. 
    - **User Roles**:
       - **Admin**: Full control over users, bookings, and availability, with comprehensive dashboard access.
