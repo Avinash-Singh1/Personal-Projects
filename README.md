@@ -8,9 +8,9 @@ Welcome to my portfolio of projects! Below is a list of projects that I've worke
 ## 🚀 Projects
 
 ### 1. **♟️ Chess Game**
- - **GitHub Repository**: [Chess Game GitHub Repo](https://github.com/YourUsername/Chess-Game)
+ - **GitHub Repository**: [Chess Game GitHub Repo](https://github.com/Avinash-Singh1/Chess_Game)
 
-- **Live Demo**: [Live Demo of Chess Game](https://your-live-demo-link.com)
+- **Live Demo**: [Live Demo of Chess Game](https://chess-game-wqlr.onrender.com)
 - **Description**:  
 A real-time multiplayer chess game where players can create a game with a unique code and invite others to join. Built with **HTML**, **CSS**, **JavaScript**, and **Node.js**, using **Socket.io** for live updates.
  - **Key Features**:
