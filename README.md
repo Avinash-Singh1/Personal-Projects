@@ -7,7 +7,7 @@ Welcome to my portfolio of projects! Below is a list of projects that I've worke
 
 ## 🚀 Projects
 
-### 1. **♟️ Chess Game**
+### <a id="game"></a> 1. **♟️ Chess Game**
  - **GitHub Repository**: [Chess Game GitHub Repo](https://github.com/Avinash-Singh1/Chess_Game)
 
 - **Live Demo**: [Live Demo of Chess Game](https://chess-game-wqlr.onrender.com)
@@ -27,7 +27,7 @@ A real-time multiplayer chess game where players can create a game with a unique
 ---
 
 
-### 2. **Disney+ Hotstar Clone**
+### <a id="movie"></a> 2. **Disney+ Hotstar Clone**
    - **GitHub Repository**: [Disney+ Hotstar Clone GitHub Repo](https://github.com/Avinash-Singh1/Disney-Hotstar_Movie-Recomendation)
    - **Live Demo**: [Live Demo of Disney+ Hotstar Clone](https://disneyhotstar-u6t0.onrender.com/) *(Initial loading may take time, especially on search and genre changes)*
    - **Description**: The Disney+ Hotstar Clone is an interactive streaming platform clone that allows users to search for movies, apply filters, and enjoy an intuitive, responsive UI. Built with **Next.js** and styled using **Tailwind CSS** and **shadcn**, this project features advanced functionalities like **server components**, **caching**, and a **dark mode toggle**. It integrates the **TMDB API** for movie data, **Azure functions** for backend processes, and leverages **OpenAI API** through **Microsoft Azure** for enhanced functionality.
@@ -56,7 +56,7 @@ A real-time multiplayer chess game where players can create a game with a unique
 
 
 
-### 4. **QuickAuto Cab and Others (Plan journey is working, but other features have been discontinued due to cost issues).**
+### <a id="auto"></a> 4. **QuickAuto Cab and Others (Plan journey is working, but other features have been discontinued due to cost issues).**
    - **GitHub Repository**: [QuickAuto Cab GitHub Repo](https://github.com/Avinash-Singh1/Quick_Auto_Application)
    - **Live Demo**: [Live Demo of QuickAuto Cab](https://quickauto.onrender.com/login) If Unable to log in on signup (Means RDS is Down..)
    - **Description**: An application built with Angular, Gomaps Pro API, Node.js, and MySQL, focusing on efficient cab management and user interaction. 
@@ -72,7 +72,7 @@ A real-time multiplayer chess game where players can create a game with a unique
       - Confirmation messages via **Twilio** for WhatsApp to notify customers of their booking status and appointment details.
 
 
-### 5. **Finance Application**
+###  <a id="finance"></a> 5. **Finance Application**
    - **GitHub Repository**: [Finance Application GitHub Repo](https://github.com/Avinash-Singh1/Finanace-Management-Lending-Application)
    - **Live Demo**: [Live Demo of Finance Application](https://finance-application-k5x4.onrender.com/home)
    - **Description**: A comprehensive finance application built using Angular, Node.js, and MySQL. Key features include:
@@ -83,7 +83,7 @@ A real-time multiplayer chess game where players can create a game with a unique
 
 ---
 
-### 6. **COVID Tracker Web Application**
+### <a id="covid"></a> 6. **COVID Tracker Web Application**
    - **GitHub Repository**: [COVID Tracker GitHub Repo](https://github.com/Avinash-Singh1/CovidTracker)
    - **Live Demo**: [Live Demo of COVID Tracker](https://covidtracker-go.netlify.app)
    - **Description**: An application that tracks and displays over 220 million global COVID-19 cases, recoveries, and deaths with real-time data updates. Built with React.js, Leaflet, Disease.sh API, and Chart.js. Key features include:
@@ -92,7 +92,7 @@ A real-time multiplayer chess game where players can create a game with a unique
 
 ---
 
-### 7. **User Management System**
+### <a id="usermanagement"></a> 7. **User Management System**
    - **GitHub Repository**: [User Management System GitHub Repo](https://github.com/Avinash-Singh1/UserManagement)
    - **Live Demo**: [Live Demo of User Management System](https://usermenu.onrender.com/)
    - **Description**: A secure user management system designed using Node.js, EJS, and MongoDB. Key features include:
@@ -102,7 +102,7 @@ A real-time multiplayer chess game where players can create a game with a unique
 ---
 
 
-### 8. **Music Player**
+### <a id="music"></a> 8. **Music Player**
    - **GitHub Repository**: [Music Player GitHub Repo](https://github.com/Avinash-Singh1/MusicApplication)
    - **Live Demo**: [Live Demo of Music Player](https://musik-webapp.netlify.app/)
    - **Description**: A responsive web application that allows users to play and manage their favorite music tracks. Built with React.js and the Web Audio API. Key features include:
@@ -111,7 +111,7 @@ A real-time multiplayer chess game where players can create a game with a unique
 
 ---
 
-### 9. **To-Do Application**
+### <a id="todo"></a>  9. **To-Do Application**
   - **GitHub Repository**: [To-Do Application GitHub Repo](https://github.com/Avinash-Singh1/Todo)
    - **Live Demo**: [Live Demo of To-Do Application](https://todo-get-the-things-done.netlify.app/)
    - **Description**: A simple and effective to-do list application that helps users manage their tasks efficiently. Built with HTML, CSS, and JavaScript. Key features include:
@@ -120,7 +120,7 @@ A real-time multiplayer chess game where players can create a game with a unique
  
 ---
 
-### 10. **Ecommerce UI**
+###  <a id="ecom"></a>  10. **Ecommerce UI**
   - **GitHub Repository**: [Ecommerce UI GitHub Repo](https://github.com/Avinash-Singh1/Ecommerce)
    - **Live Demo**: [Live Demo of Ecommerce UI](https://demoapp-ui.netlify.app/)
    - **Description**: A front-end e-commerce user interface designed for seamless shopping experiences. Built with React.js and styled-components. Key features include:
@@ -128,7 +128,7 @@ A real-time multiplayer chess game where players can create a game with a unique
      - Dynamic product listing and filtering options for enhanced user experience.
 ---
 
-### 11. **Chemical Management System**
+### <a id="chemical"></a>  11. **Chemical Management System**
    - **GitHub Repository**: [Chemical Management System GitHub Repo](https://github.com/Avinash-Singh1/Chemical_Management_System)
    - **Live Demo**: [Live Demo of Chemical Management System](https://chemicals-supplies.netlify.app/)
    - **Description**: The Chemical Management System is an online tool designed to manage chemical data efficiently through an interactive table interface. 
@@ -139,7 +139,7 @@ A real-time multiplayer chess game where players can create a game with a unique
 
 ---
 
-### 12. **Task Track (Drag and Drop)**
+###  <a id="drag"></a>  12. **Task Track (Drag and Drop)**
    - **GitHub Repository**: [Task Track (Drag and Drop) GitHub Repo]([https://github.com/Avinash-Singh1/Chemical_Management_System](https://github.com/Avinash-Singh1/Task-Track))
    - **Live Demo**: [Live Demo of Task Track (Drag and Drop)](https://track-my-task.netlify.app/)
    - **Description**: Track My Task is a React-based task management application designed to streamline your workflow. Users can effortlessly add and manage tasks across three distinct phases: To Do, Doing, and Done, using a simple drag-and-drop interface. 
