@@ -41,7 +41,7 @@ A real-time multiplayer chess game where players can create a game with a unique
 
 
 ---
-### 3. **Google Translate**
+### <a id="translator"></a>3. **Google Translate**
 - **GitHub Repository**: [Google Translate GitHub Repo](https://github.com/Avinash-Singh1/Translator-Text-and-Voice)
       - **Live Demo**: [Live Demo of Translator Application](https://translator-text-and-voice.onrender.com/) *(For the best experience, please open in incognito mode. If the URL is not working, the application server may be down due to being on a free-tier account.)*
    - **Description**: The Google Translate Application is a powerful web tool that combines text translation and speech recognition, enabling users to translate text from various languages seamlessly. Built using **React**, **Next.js**, and **TypeScript**, this application integrates with the **Azure/OpenAI API** for translation services, utilizes **Clerk for authentication**, and stores translation history in **MongoDB** integrated with **Azure CosmosDB**. 
