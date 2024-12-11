@@ -56,7 +56,8 @@ A real-time multiplayer chess game where players can create a game with a unique
 
 
 
-### <a id="auto"></a> 4. **QuickAuto Cab and Others (Plan journey is working, but other features have been discontinued due to cost issues).**
+### <a id="auto"></a> 4. **QuickAuto Cab and Others (Some features have been discontinued due to cost issues).**
+ **Please Scroll and Book (Scrollable work in Progress).**
    - **GitHub Repository**: [QuickAuto Cab GitHub Repo](https://github.com/Avinash-Singh1/Quick_Auto_Application)
    - **Live Demo**: [Live Demo of QuickAuto Cab](https://test-k8td.onrender.com/planjourney) If Unable to log in on signup (Means RDS is Down..)
    - **Description**: An application built with Angular, Gomaps Pro API, Node.js, and MySQL, focusing on efficient cab management and user interaction. 
