@@ -8,25 +8,27 @@ Welcome to my portfolio of projects! Below is a list of projects that I've worke
 ## 🚀 Projects
 
 
-### <a id="chatapp"></a> 1. **♟️ Chat Application**
- - **GitHub Repository**: [Chess Game GitHub Repo](https://github.com/Avinash-Singh1/Chat-Application)
+### <a id="chatapp"></a> 1. **💬 Chat Application**
+- **GitHub Repository**: [Chat Application GitHub Repo](https://github.com/Avinash-Singh1/Chat-Application)
 
-- **Live Demo**: [Live Demo of Chess Game](https://avinash-chat-application.netlify.app/)
+- **Live Demo**: [Live Demo of Chat Application](https://avinash-chat-application.netlify.app/)
 - **Description**:  
-A real-time multiplayer chess game where players can create a game with a unique code and invite others to join. Built with **HTML**, **CSS**, **JavaScript**, and **Node.js**, using **Socket.io** for live updates.
- - **Key Features**:
-   - **Game Creation**: Generate a unique code to start a game.
-   - **Live Multiplayer**: Join and play in real-time with another player.
-   - **Real-Time Updates**: Moves and game state sync via **Socket.io**.
-   - **Responsive UI**: Works on both desktop and mobile.
+A real-time chat application that enables users to send and receive messages instantly. Built with **React**, **Node.js**, **MongoDB**, and **Socket.io** to ensure smooth, real-time communication between users.
+  
+- **Key Features**:
+   - **Real-Time Messaging**: Messages are sent and received in real-time, powered by **Socket.io**.
+   - **User Authentication**: Secure user login and registration with JWT-based authentication.
+   - **Online User Indicators**: View which users are online during your session.
+   - **File Uploads**: Users can upload and share files within chats.
+   - **Responsive UI**: Works seamlessly on both desktop and mobile devices.
+  
 - **Technologies Used**:
-   - **Frontend**: HTML, CSS, JavaScript
+   - **Frontend**: React
    - **Backend**: Node.js, Express
-   - **Templating**: Handlebars
+   - **Database**: MongoDB
    - **Real-Time Communication**: Socket.io
-
+   - **Authentication**: JWT (JSON Web Tokens)
 ---
-
 
 ### <a id="game"></a> 2. **♟️ Chess Game**
 A real-time chat application where users can send messages, upload files, and view online users. Built with **React**, **Node.js**, **MongoDB**, and **WebSockets** for seamless real-time communication.
