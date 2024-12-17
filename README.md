@@ -7,10 +7,11 @@ Welcome to my portfolio of projects! Below is a list of projects that I've worke
 
 ## 🚀 Projects
 
-### <a id="game"></a> 1. **♟️ Chess Game**
- - **GitHub Repository**: [Chess Game GitHub Repo](https://github.com/Avinash-Singh1/Chess_Game)
 
-- **Live Demo**: [Live Demo of Chess Game](https://chess-game-wqlr.onrender.com)
+### <a id="game"></a> 1. **♟️ Chat Application**
+ - **GitHub Repository**: [Chess Game GitHub Repo](https://github.com/Avinash-Singh1/Chat-Application)
+
+- **Live Demo**: [Live Demo of Chess Game](https://avinash-chat-application.netlify.app/)
 - **Description**:  
 A real-time multiplayer chess game where players can create a game with a unique code and invite others to join. Built with **HTML**, **CSS**, **JavaScript**, and **Node.js**, using **Socket.io** for live updates.
  - **Key Features**:
@@ -27,7 +28,33 @@ A real-time multiplayer chess game where players can create a game with a unique
 ---
 
 
-### <a id="movie"></a> 2. **Disney+ Hotstar Clone**
+### <a id="game"></a> 2. **♟️ Chess Game**
+A real-time chat application where users can send messages, upload files, and view online users. Built with **React**, **Node.js**, **MongoDB**, and **WebSockets** for seamless real-time communication.
+
+## 🚀 Live Demo
+Check out the live demo of the chat application here: [Live Demo of Chat Application](https://chat-app-link.onrender.com)
+
+## 💻 GitHub Repository
+Find the source code for the project on GitHub: [Chat Application GitHub Repo](https://github.com/YourUsername/Chat_Application)
+
+## 🌟 Features
+- **Secure Authentication**: JWT-based authentication ensures that user data is protected, and only authorized users can access the app.
+- **Real-Time Messaging**: Messages are sent and received in real-time, with instant updates on the user's screen.
+- **Online User Indicators**: See which users are online, providing a dynamic experience.
+- **File Uploads**: Share files seamlessly within conversations.
+- **Scalable Architecture**: Frontend and backend are deployed separately to ensure better performance, with a 25% improvement in response time.
+- **Responsive UI**: Works perfectly on both desktop and mobile devices for an optimal user experience.
+
+## 🛠️ Technologies Used
+- **Frontend**: React
+- **Backend**: Node.js, Express
+- **Database**: MongoDB
+- **Real-Time Communication**: WebSockets
+- **Authentication**: JWT (JSON Web Tokens)
+
+
+
+### <a id="movie"></a> 3. **Disney+ Hotstar Clone**
    - **GitHub Repository**: [Disney+ Hotstar Clone GitHub Repo](https://github.com/Avinash-Singh1/Disney-Hotstar_Movie-Recomendation)
    - **Live Demo**: [Live Demo of Disney+ Hotstar Clone](https://disneyhotstar-u6t0.onrender.com/) *(Initial loading may take time, especially on search and genre changes)*
    - **Description**: The Disney+ Hotstar Clone is an interactive streaming platform clone that allows users to search for movies, apply filters, and enjoy an intuitive, responsive UI. Built with **Next.js** and styled using **Tailwind CSS** and **shadcn**, this project features advanced functionalities like **server components**, **caching**, and a **dark mode toggle**. It integrates the **TMDB API** for movie data, **Azure functions** for backend processes, and leverages **OpenAI API** through **Microsoft Azure** for enhanced functionality.
@@ -41,7 +68,7 @@ A real-time multiplayer chess game where players can create a game with a unique
 
 
 ---
-### <a id="translator"></a>3. **Google Translate**
+### <a id="translator"></a>4. **Google Translate**
 - **GitHub Repository**: [Google Translate GitHub Repo](https://github.com/Avinash-Singh1/Translator-Text-and-Voice)
       - **Live Demo**: [Live Demo of Translator Application](https://translator-text-and-voice.onrender.com/) *(For the best experience, please open in incognito mode. If the URL is not working, the application server may be down due to being on a free-tier account.)*
    - **Description**: The Google Translate Application is a powerful web tool that combines text translation and speech recognition, enabling users to translate text from various languages seamlessly. Built using **React**, **Next.js**, and **TypeScript**, this application integrates with the **Azure/OpenAI API** for translation services, utilizes **Clerk for authentication**, and stores translation history in **MongoDB** integrated with **Azure CosmosDB**. 
@@ -55,7 +82,7 @@ A real-time multiplayer chess game where players can create a game with a unique
    
 
 
-### <a id="auto"></a> 4. **QuickAuto Cab and Others (Some features have been discontinued due to cost issues).**
+### <a id="auto"></a> 5. **QuickAuto Cab and Others (Some features have been discontinued due to cost issues).**
  **Please Scroll and Book (Scrollable work in Progress).**
 <img src="https://github.com/user-attachments/assets/40d7e692-43ac-4c33-b989-a6bb47e0d2f2" alt="Scroll" width="300" />
 
@@ -74,7 +101,7 @@ A real-time multiplayer chess game where players can create a game with a unique
       - Confirmation messages via **Twilio** for WhatsApp to notify customers of their booking status and appointment details.
 
 
-###  <a id="finance"></a> 5. **Finance Application**
+###  <a id="finance"></a> 6. **Finance Application**
    - **GitHub Repository**: [Finance Application GitHub Repo](https://github.com/Avinash-Singh1/Finanace-Management-Lending-Application)
    - **Live Demo**: [Live Demo of Finance Application](https://finance-application-k5x4.onrender.com/home)
    - **Description**: A comprehensive finance application built using Angular, Node.js, and MySQL. Key features include:
@@ -85,7 +112,7 @@ A real-time multiplayer chess game where players can create a game with a unique
 
 ---
 
-### <a id="covid"></a> 6. **COVID Tracker Web Application**
+### <a id="covid"></a> 7. **COVID Tracker Web Application**
    - **GitHub Repository**: [COVID Tracker GitHub Repo](https://github.com/Avinash-Singh1/CovidTracker)
    - **Live Demo**: [Live Demo of COVID Tracker](https://covidtracker-go.netlify.app)
    - **Description**: An application that tracks and displays over 220 million global COVID-19 cases, recoveries, and deaths with real-time data updates. Built with React.js, Leaflet, Disease.sh API, and Chart.js. Key features include:
@@ -94,7 +121,7 @@ A real-time multiplayer chess game where players can create a game with a unique
 
 ---
 
-### <a id="usermanagement"></a> 7. **User Management System**
+### <a id="usermanagement"></a> 8. **User Management System**
    - **GitHub Repository**: [User Management System GitHub Repo](https://github.com/Avinash-Singh1/UserManagement)
    - **Live Demo**: [Live Demo of User Management System](https://usermenu.onrender.com/)
    - **Description**: A secure user management system designed using Node.js, EJS, and MongoDB. Key features include:
@@ -104,7 +131,7 @@ A real-time multiplayer chess game where players can create a game with a unique
 ---
 
 
-### <a id="music"></a> 8. **Music Player**
+### <a id="music"></a> 9. **Music Player**
    - **GitHub Repository**: [Music Player GitHub Repo](https://github.com/Avinash-Singh1/MusicApplication)
    - **Live Demo**: [Live Demo of Music Player](https://musik-webapp.netlify.app/)
    - **Description**: A responsive web application that allows users to play and manage their favorite music tracks. Built with React.js and the Web Audio API. Key features include:
@@ -113,7 +140,7 @@ A real-time multiplayer chess game where players can create a game with a unique
 
 ---
 
-### <a id="todo"></a>  9. **To-Do Application**
+### <a id="todo"></a>  10. **To-Do Application**
   - **GitHub Repository**: [To-Do Application GitHub Repo](https://github.com/Avinash-Singh1/Todo)
    - **Live Demo**: [Live Demo of To-Do Application](https://todo-get-the-things-done.netlify.app/)
    - **Description**: A simple and effective to-do list application that helps users manage their tasks efficiently. Built with HTML, CSS, and JavaScript. Key features include:
@@ -122,7 +149,7 @@ A real-time multiplayer chess game where players can create a game with a unique
  
 ---
 
-###  <a id="ecom"></a>  10. **Ecommerce UI**
+###  <a id="ecom"></a>  11. **Ecommerce UI**
   - **GitHub Repository**: [Ecommerce UI GitHub Repo](https://github.com/Avinash-Singh1/Ecommerce)
    - **Live Demo**: [Live Demo of Ecommerce UI](https://demoapp-ui.netlify.app/)
    - **Description**: A front-end e-commerce user interface designed for seamless shopping experiences. Built with React.js and styled-components. Key features include:
@@ -130,7 +157,7 @@ A real-time multiplayer chess game where players can create a game with a unique
      - Dynamic product listing and filtering options for enhanced user experience.
 ---
 
-### <a id="chemical"></a>  11. **Chemical Management System**
+### <a id="chemical"></a>  12. **Chemical Management System**
    - **GitHub Repository**: [Chemical Management System GitHub Repo](https://github.com/Avinash-Singh1/Chemical_Management_System)
    - **Live Demo**: [Live Demo of Chemical Management System](https://chemicals-supplies.netlify.app/)
    - **Description**: The Chemical Management System is an online tool designed to manage chemical data efficiently through an interactive table interface. 
@@ -141,7 +168,7 @@ A real-time multiplayer chess game where players can create a game with a unique
 
 ---
 
-###  <a id="drag"></a>  12. **Task Track (Drag and Drop)**
+###  <a id="drag"></a>  13. **Task Track (Drag and Drop)**
    - **GitHub Repository**: [Task Track (Drag and Drop) GitHub Repo]([https://github.com/Avinash-Singh1/Chemical_Management_System](https://github.com/Avinash-Singh1/Task-Track))
    - **Live Demo**: [Live Demo of Task Track (Drag and Drop)](https://track-my-task.netlify.app/)
    - **Description**: Track My Task is a React-based task management application designed to streamline your workflow. Users can effortlessly add and manage tasks across three distinct phases: To Do, Doing, and Done, using a simple drag-and-drop interface. 
