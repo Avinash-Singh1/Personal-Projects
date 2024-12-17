@@ -8,7 +8,7 @@ Welcome to my portfolio of projects! Below is a list of projects that I've worke
 ## 🚀 Projects
 
 
-### <a id="game"></a> 1. **♟️ Chat Application**
+### <a id="chatapp"></a> 1. **♟️ Chat Application**
  - **GitHub Repository**: [Chess Game GitHub Repo](https://github.com/Avinash-Singh1/Chat-Application)
 
 - **Live Demo**: [Live Demo of Chess Game](https://avinash-chat-application.netlify.app/)
