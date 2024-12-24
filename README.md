@@ -84,8 +84,7 @@ Find the source code for the project on GitHub: [Chat Application GitHub Repo](h
    
 
 
-### <a id="auto"></a> 5. **QuickAuto Cab and Others (Some features have been discontinued due to cost issues).**
- **Please Scroll and Book (Scrollable work in Progress).**
+### <a id="auto"></a> 5. **QuickAuto Cab and Others (Admin Credentials- user: admin@gmail.com, password: admin).**
 
    - **GitHub Repository**: [QuickAuto Cab GitHub Repo](https://github.com/Avinash-Singh1/Quick_Auto_Application)
    - **Live Demo**: [Live Demo of QuickAuto Cab](https://test-k8td.onrender.com/planjourney) If Unable to log in on signup (Means RDS is Down..)
