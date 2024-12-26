@@ -30,29 +30,14 @@ A real-time chat application that enables users to send and receive messages ins
    - **Authentication**: JWT (JSON Web Tokens)
 ---
 
-### <a id="game"></a> 2. **♟️ Chess Game**
-A real-time chat application where users can send messages, upload files, and view online users. Built with **React**, **Node.js**, **MongoDB**, and **WebSockets** for seamless real-time communication.
+## <a id="game"></a> 2. ** GitHub Repo Application**
 
-## 🚀 Live Demo
-Check out the live demo of the chat application here: [Live Demo of Chat Application](https://chat-app-link.onrender.com)
+### 🚀 Live Demo
+Check out the live demo of the chat application here: [Live Demo of Chat Application](https://github-repo-app-cjev.onrender.com/)
 
-## 💻 GitHub Repository
+### 💻 GitHub Repository
 Find the source code for the project on GitHub: [Chat Application GitHub Repo](https://github.com/YourUsername/Chat_Application)
 
-## 🌟 Features
-- **Secure Authentication**: JWT-based authentication ensures that user data is protected, and only authorized users can access the app.
-- **Real-Time Messaging**: Messages are sent and received in real-time, with instant updates on the user's screen.
-- **Online User Indicators**: See which users are online, providing a dynamic experience.
-- **File Uploads**: Share files seamlessly within conversations.
-- **Scalable Architecture**: Frontend and backend are deployed separately to ensure better performance, with a 25% improvement in response time.
-- **Responsive UI**: Works perfectly on both desktop and mobile devices for an optimal user experience.
-
-## 🛠️ Technologies Used
-- **Frontend**: React
-- **Backend**: Node.js, Express
-- **Database**: MongoDB
-- **Real-Time Communication**: WebSockets
-- **Authentication**: JWT (JSON Web Tokens)
 
 
 
