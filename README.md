@@ -8,7 +8,7 @@ Welcome to my portfolio of projects! Below is a list of projects that I've worke
 ## 🚀 Projects
 
 
-### <a id="chatapp"></a> 1. **💬 Chat Application**
+## <a id="chatapp"></a> 1. **💬 Chat Application**
 - **GitHub Repository**: [Chat Application GitHub Repo](https://github.com/Avinash-Singh1/Chat-Application)
 
 - **Live Demo**: [Live Demo of Chat Application](https://avinash-chat-application.netlify.app/)
@@ -41,7 +41,7 @@ Find the source code for the project on GitHub: [Chat Application GitHub Repo](h
 
 
 
-### <a id="movie"></a> 3. **Disney+ Hotstar Clone**
+## <a id="movie"></a> 3. **Disney+ Hotstar Clone**
    - **GitHub Repository**: [Disney+ Hotstar Clone GitHub Repo](https://github.com/Avinash-Singh1/Disney-Hotstar_Movie-Recomendation)
    - **Live Demo**: [Live Demo of Disney+ Hotstar Clone](https://disneyhotstar-u6t0.onrender.com/) *(Initial loading may take time, especially on search and genre changes)*
    - **Description**: The Disney+ Hotstar Clone is an interactive streaming platform clone that allows users to search for movies, apply filters, and enjoy an intuitive, responsive UI. Built with **Next.js** and styled using **Tailwind CSS** and **shadcn**, this project features advanced functionalities like **server components**, **caching**, and a **dark mode toggle**. It integrates the **TMDB API** for movie data, **Azure functions** for backend processes, and leverages **OpenAI API** through **Microsoft Azure** for enhanced functionality.
@@ -55,10 +55,10 @@ Find the source code for the project on GitHub: [Chat Application GitHub Repo](h
 
 
 ---
-### <a id="translator"></a>4. **Google Translate**
+### <a id="translator"></a>4. ** Text and Voice Translator**
 - **GitHub Repository**: [Google Translate GitHub Repo](https://github.com/Avinash-Singh1/Translator-Text-and-Voice)
       - **Live Demo**: [Live Demo of Translator Application](https://translator-text-and-voice.onrender.com/) *(For the best experience, please open in incognito mode. If the URL is not working, the application server may be down due to being on a free-tier account.)*
-   - **Description**: The Google Translate Application is a powerful web tool that combines text translation and speech recognition, enabling users to translate text from various languages seamlessly. Built using **React**, **Next.js**, and **TypeScript**, this application integrates with the **Azure/OpenAI API** for translation services, utilizes **Clerk for authentication**, and stores translation history in **MongoDB** integrated with **Azure CosmosDB**. 
+   - **Description**: The  Text and Voice Translator Application is a powerful web tool that combines text translation and speech recognition, enabling users to translate text from various languages seamlessly. Built using **React**, **Next.js**, and **TypeScript**, this application integrates with the **Azure/OpenAI API** for translation services, utilizes **Clerk for authentication**, and stores translation history in **MongoDB** integrated with **Azure CosmosDB**. 
    - **Key Features**:
      - **User Authentication**: Users must authenticate via their Gmail accounts before accessing the translation page.
      - **Automatic Language Detection**: The application automatically identifies the input language and prepares for translation.
@@ -69,7 +69,7 @@ Find the source code for the project on GitHub: [Chat Application GitHub Repo](h
    
 
 
-### <a id="auto"></a> 5. **QuickAuto Cab and Others (Admin Credentials- user: admin@gmail.com, password: admin).**
+## <a id="auto"></a> 5. **QuickAuto Cab and Others (Admin Credentials- user: admin@gmail.com, password: admin).**
 
    - **GitHub Repository**: [QuickAuto Cab GitHub Repo](https://github.com/Avinash-Singh1/Quick_Auto_Application)
    - **Live Demo**: [Live Demo of QuickAuto Cab](https://test-k8td.onrender.com/planjourney) If Unable to log in on signup (Means RDS is Down..)
@@ -86,7 +86,7 @@ Find the source code for the project on GitHub: [Chat Application GitHub Repo](h
       - Confirmation messages via **Twilio** for WhatsApp to notify customers of their booking status and appointment details.
 
 
-###  <a id="finance"></a> 6. **Finance Application**
+##  <a id="finance"></a> 6. **Finance Application**
    - **GitHub Repository**: [Finance Application GitHub Repo](https://github.com/Avinash-Singh1/Finanace-Management-Lending-Application)
    - **Live Demo**: [Live Demo of Finance Application](https://finance-application-k5x4.onrender.com/home)
    - **Description**: A comprehensive finance application built using Angular, Node.js, and MySQL. Key features include:
@@ -97,7 +97,7 @@ Find the source code for the project on GitHub: [Chat Application GitHub Repo](h
 
 ---
 
-### <a id="covid"></a> 7. **COVID Tracker Web Application**
+## <a id="covid"></a> 7. **COVID Tracker Web Application**
    - **GitHub Repository**: [COVID Tracker GitHub Repo](https://github.com/Avinash-Singh1/CovidTracker)
    - **Live Demo**: [Live Demo of COVID Tracker](https://covidtracker-go.netlify.app)
    - **Description**: An application that tracks and displays over 220 million global COVID-19 cases, recoveries, and deaths with real-time data updates. Built with React.js, Leaflet, Disease.sh API, and Chart.js. Key features include:
@@ -106,7 +106,7 @@ Find the source code for the project on GitHub: [Chat Application GitHub Repo](h
 
 ---
 
-### <a id="usermanagement"></a> 8. **User Management System**
+## <a id="usermanagement"></a> 8. **User Management System**
    - **GitHub Repository**: [User Management System GitHub Repo](https://github.com/Avinash-Singh1/UserManagement)
    - **Live Demo**: [Live Demo of User Management System](https://usermenu.onrender.com/)
    - **Description**: A secure user management system designed using Node.js, EJS, and MongoDB. Key features include:
@@ -116,7 +116,7 @@ Find the source code for the project on GitHub: [Chat Application GitHub Repo](h
 ---
 
 
-### <a id="music"></a> 9. **Music Player**
+## <a id="music"></a> 9. **Music Player**
    - **GitHub Repository**: [Music Player GitHub Repo](https://github.com/Avinash-Singh1/MusicApplication)
    - **Live Demo**: [Live Demo of Music Player](https://musik-webapp.netlify.app/)
    - **Description**: A responsive web application that allows users to play and manage their favorite music tracks. Built with React.js and the Web Audio API. Key features include:
@@ -142,7 +142,7 @@ Find the source code for the project on GitHub: [Chat Application GitHub Repo](h
      - Dynamic product listing and filtering options for enhanced user experience.
 ---
 
-### <a id="chemical"></a>  12. **Chemical Management System**
+## <a id="chemical"></a>  12. **Chemical Management System**
    - **GitHub Repository**: [Chemical Management System GitHub Repo](https://github.com/Avinash-Singh1/Chemical_Management_System)
    - **Live Demo**: [Live Demo of Chemical Management System](https://chemicals-supplies.netlify.app/)
    - **Description**: The Chemical Management System is an online tool designed to manage chemical data efficiently through an interactive table interface. 
@@ -153,7 +153,7 @@ Find the source code for the project on GitHub: [Chat Application GitHub Repo](h
 
 ---
 
-###  <a id="drag"></a>  13. **Task Track (Drag and Drop)**
+##  <a id="drag"></a>  13. **Task Track (Drag and Drop)**
    - **GitHub Repository**: [Task Track (Drag and Drop) GitHub Repo]([https://github.com/Avinash-Singh1/Chemical_Management_System](https://github.com/Avinash-Singh1/Task-Track))
    - **Live Demo**: [Live Demo of Task Track (Drag and Drop)](https://track-my-task.netlify.app/)
    - **Description**: Track My Task is a React-based task management application designed to streamline your workflow. Users can effortlessly add and manage tasks across three distinct phases: To Do, Doing, and Done, using a simple drag-and-drop interface. 
