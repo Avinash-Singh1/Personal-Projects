@@ -73,6 +73,16 @@ Find the source code for the project on GitHub: [Chat Application GitHub Repo](h
 
    - **GitHub Repository**: [QuickAuto Cab GitHub Repo](https://github.com/Avinash-Singh1/Quick_Auto_Application)
    - **Live Demo**: [Live Demo of QuickAuto Cab](https://test-k8td.onrender.com/planjourney) If Unable to log in on signup (Means RDS is Down..)
+
+      **Passender Login Type**
+
+      ![Screenshot 2025-01-11 135444](https://github.com/user-attachments/assets/64e416d2-5ff6-4b17-a256-70c4c6cdef6f)
+
+      **Driver Login Type**
+
+      ![image](https://github.com/user-attachments/assets/43fe46f1-cc12-4927-b772-a6d8c9f95e7d)
+
+
    - **Description**: An application built with Angular, Gomaps Pro API, Node.js, and MySQL, focusing on efficient cab management and user interaction. 
    - **User Roles**:
       - **Admin**: Full control over users, bookings, and availability, with comprehensive dashboard access.
