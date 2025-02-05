@@ -48,7 +48,6 @@ Find the source code for the project on GitHub: [GitHub Repo App](https://github
 - 🚀 **Search & Filter** Repositories on the Client  
 - 🎭 **Secure Authentication & Authorization**  
 - 🐛 **Comprehensive Error Handling** (Client & Server)  
-- 🎃 **Step-by-Step Deployment Guide** for free hosting  
 - ⏳ **Optimized for Performance & Scalability**  
 
 
