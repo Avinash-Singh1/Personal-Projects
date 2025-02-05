@@ -29,16 +29,27 @@ A real-time chat application that enables users to send and receive messages ins
    - **Real-Time Communication**: Socket.io
    - **Authentication**: JWT (JSON Web Tokens)
 ---
+## <a id="gitrepo"></a> 3. **GitHub Repo Application**
+### 🔗 Live Demo
+Check out the live demo here: [Live Demo of Chat Application](https://github-repo-app-cjev.onrender.com/)
 
-## <a id="game"></a> 2. ** GitHub Repo Application**
+### 📂 GitHub Repository
+Find the source code for the project on GitHub: [GitHub Repo App](https://github.com/Avinash-Singh1/GitHub-Repo-App)
 
-### 🚀 Live Demo
-Check out the live demo of the chat application here: [Live Demo of Chat Application](https://github-repo-app-cjev.onrender.com/)
+### 🛠 Tech Stack
+- **Frontend:** React (MERN), TailwindCSS  
+- **Backend:** Node.js, Express, Passport.js  
+- **Database:** MongoDB  
+- **Authentication:** JWT (JSON Web Tokens), GitHub OAuth  
 
-### 💻 GitHub Repository
-Find the source code for the project on GitHub: [Chat Application GitHub Repo](https://github.com/YourUsername/Chat_Application)
-
-
+### 🔥 Features
+- 🔑 **GitHub Authentication** using Passport.js  
+- 👾 **Fetch & Display** GitHub User Profiles & Repositories  
+- 🚀 **Search & Filter** Repositories on the Client  
+- 🎭 **Secure Authentication & Authorization**  
+- 🐛 **Comprehensive Error Handling** (Client & Server)  
+- 🎃 **Step-by-Step Deployment Guide** for free hosting  
+- ⏳ **Optimized for Performance & Scalability**  
 
 
 ## <a id="movie"></a> 3. **Disney+ Hotstar Clone**
