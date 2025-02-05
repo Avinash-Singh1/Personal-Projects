@@ -33,7 +33,7 @@ A real-time chat application that enables users to send and receive messages ins
 ### 🔗 Live Demo
 Check out the live demo here: [Live Demo of Chat Application](https://github-repo-app-cjev.onrender.com/)
 
-### 📂 GitHub Repository
+###  GitHub Repository
 Find the source code for the project on GitHub: [GitHub Repo App](https://github.com/Avinash-Singh1/GitHub-Repo-App)
 
 ### 🛠 Tech Stack
@@ -42,13 +42,13 @@ Find the source code for the project on GitHub: [GitHub Repo App](https://github
 - **Database:** MongoDB  
 - **Authentication:** JWT (JSON Web Tokens), GitHub OAuth  
 
-### 🔥 Features
-- 🔑 **GitHub Authentication** using Passport.js  
-- 👾 **Fetch & Display** GitHub User Profiles & Repositories  
-- 🚀 **Search & Filter** Repositories on the Client  
-- 🎭 **Secure Authentication & Authorization**  
-- 🐛 **Comprehensive Error Handling** (Client & Server)  
-- ⏳ **Optimized for Performance & Scalability**  
+###  Features
+-  **GitHub Authentication** using Passport.js  
+-  **Fetch & Display** GitHub User Profiles & Repositories  
+-  **Search & Filter** Repositories on the Client  
+-  **Secure Authentication & Authorization**  
+-  **Comprehensive Error Handling** (Client & Server)  
+-  **Optimized for Performance & Scalability**  
 
 
 ## <a id="movie"></a> 3. **Disney+ Hotstar Clone**
