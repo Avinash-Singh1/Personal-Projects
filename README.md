@@ -80,7 +80,7 @@ Find the source code for the project on GitHub: [GitHub Repo App](https://github
 
 
 ## <a id="auto"></a> 5. **QuickAuto Cab and Others (Admin Credentials- user: admin@gmail.com, password: admin).**
-
+## **Some services are temporarily unavailable due to cost constraints.  **
    - **GitHub Repository**: [QuickAuto Cab GitHub Repo](https://github.com/Avinash-Singh1/Quick_Auto_Application)
    - **Live Demo**: [Live Demo of QuickAuto Cab](https://test-k8td.onrender.com/planjourney) If Unable to log in on signup (Means RDS is Down..)
 
